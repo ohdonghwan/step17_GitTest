@@ -2,5 +2,5 @@ package kosta.git;
 
 public class Test {
 	String test = "test";
-	//김승현 보이냐
+	String test1 = "응답하시오";
 }
